@@ -1,0 +1,15 @@
+Algorithm:
+1. Start the program.
+2. Include the required header files and .c files.
+3. Define the global variables and structure.
+4. Declare the functions along with the main functions.
+5. Declare all the nessesary variables.
+6. Ask for an input(to make a choice from the main menu).
+7. If the user chooses to exit, ask if he wants to exit and exit.
+8. If the user chooses to add a new contact, ask for the name and phone number and save it.
+9. If the user chooses to view the list of contacts, show all the saved contacts.
+10. If the user chooses to search a contact, ask for the name of the contact if the name of the contact matches with any names in the list then display it if not then print 'No match found!' and ask if they want to try again, if yes then ask for the name, if no then exit.
+11. If the user chooses to edit the contact, ask for the name that they want to edit then ask them to enter the new name and number and save the new edited contact.
+12. If the user chooses to delete the contact, ask for the name that they want to delete and delete the contact.
+13. If the user has given the wrong choice then print invalid choice, ask to enter the choice and give an option to choose from going to the main menu or to exit if the choose main menu then show main menu, if they choose exit then exit the program, if they choose the wrong option then print invalid choice.
+14. End the program.
